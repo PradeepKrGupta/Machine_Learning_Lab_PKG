@@ -1,0 +1,1001 @@
+Record ID,age,sex,on thyroxine,query on thyroxine,on antithyroid medication,sick,pregnant,thyroid surgery,I131 treatment,query hypothyroid,query hyperthyroid,lithium,goitre,tumor,hypopituitary,psych,TSH measured,TSH,T3 measured,T3,TT4 measured,TT4,T4U measured,T4U,FTI measured,FTI,TBG measured,TBG,referral source,Condition
+840801013,29,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,f,6,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840801014,29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,128,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840801042,41,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,11,other,NO CONDITION
+840803046,36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,26,other,NO CONDITION
+840803047,32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,36,other,S
+840803048,60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,26,other,NO CONDITION
+840803068,77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,21,other,NO CONDITION
+840807019,28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,116,f,6.5596384079096035,f,6,f,6,SVI,NO CONDITION
+840808060,28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,76,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840808073,28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,83,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840810016,54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,133,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840813022,42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,105,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840813060,51,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,f,6,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840813068,51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,116,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840814014,37,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,f,6,t,2,f,6,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840814057,16,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,f,6,f,6,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840815016,54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,122,f,6.5596384079096035,f,6,f,6,SVHC,NO CONDITION
+840815020,43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,2,t,116,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840815067,63,F,t,f,f,t,f,f,f,f,f,f,f,f,f,f,t,68,f,6,t,48,t,1.02,t,47,f,6,other,F
+840815068,36,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,1,t,2,t,90,t,1.06,t,85,f,6,other,NO CONDITION
+840815069,40,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,79,t,0.94,t,84,f,6,other,NO CONDITION
+840816001,40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,104,t,1.08,t,96,f,6,other,NO CONDITION
+840816002,40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,2,t,88,t,0.84,t,105,f,6,other,NO CONDITION
+840816003,77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,107,t,1.13,t,95,f,6,other,NO CONDITION
+840816004,77,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,2,t,126,f,6.5596384079096035,f,6,f,6,SVHC,NO CONDITION
+840816005,77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,113,t,1.07,t,106,f,6,other,NO CONDITION
+840816006,77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,150,f,6.5596384079096035,f,6,f,6,SVHC,NO CONDITION
+840816007,51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,93,t,0.87,t,106,f,6,SVI,NO CONDITION
+840816008,75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,157,t,0.89,t,176,f,6,SVI,AK
+840816009,56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,80,t,0.62,t,129,f,6,SVI,NO CONDITION
+840816010,42,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,2,t,91,t,0.91,t,100,f,6,SVI,NO CONDITION
+840816011,85,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,47,t,0.68,t,69,f,6,SVI,NO CONDITION
+840816013,41,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,39,t,1.0,t,39,f,6,other,R
+840816014,71,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,126,t,1.38,t,91,f,6,other,I
+840816022,67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,71,t,0.79,t,90,f,6,other,NO CONDITION
+840816025,67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,88,t,0.95,t,93,f,6,SVI,NO CONDITION
+840816028,51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,104,t,1.57,t,66,f,6,SVI,NO CONDITION
+840816029,51,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,t,111,t,0.92,t,121,f,6,other,NO CONDITION
+840816046,28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,2,t,86,t,0.92,t,93,f,6,other,NO CONDITION
+840816047,55,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,9,t,2,t,136,t,1.48,t,92,f,6,other,M
+840816049,32,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,163,t,0.94,t,173,f,6,other,N
+840816052,61,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,118,t,1.1,t,93,f,6,other,NO CONDITION
+840816060,46,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,f,6,t,1,t,82,t,0.7,t,117,f,6,other,NO CONDITION
+840816061,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,140,f,6,t,33,t,1.07,t,31,f,6,other,F
+840816063,44,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,134,t,1.13,t,113,f,6,other,NO CONDITION
+840816069,51,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,60,t,0.89,t,67,f,6,SVI,NO CONDITION
+840816070,29,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,102,t,1.01,t,101,f,6,SVI,NO CONDITION
+840816071,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,97,t,1.05,t,92,f,6,SVI,NO CONDITION
+840816072,82,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,1,t,115,t,0.91,t,126,f,6,SVI,NO CONDITION
+840816076,64,F,t,f,f,f,f,f,f,f,t,f,f,f,f,f,t,2,t,1,t,86,t,0.96,t,90,f,6,other,NO CONDITION
+840816077,70,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,2,t,132,t,1.07,t,123,f,6,other,NO CONDITION
+840816078,54,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,116,t,0.78,t,149,f,6,other,NO CONDITION
+840816093,33,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,2,t,114,t,1.01,t,113,f,6,other,NO CONDITION
+840816095,59,F,t,f,f,f,f,f,t,f,f,f,f,f,f,f,t,6,t,2,t,94,t,1.4,t,68,f,6,other,M
+840816097,44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,90,t,1.05,t,86,f,6,other,NO CONDITION
+840817001,44,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,94,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840817002,44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,118,f,6.5596384079096035,f,6,f,6,SVHC,NO CONDITION
+840817003,53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,145,f,6.5596384079096035,f,6,f,6,SVI,NO CONDITION
+840817004,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,106,f,6.5596384079096035,f,6,f,6,SVI,NO CONDITION
+840817006,52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,87,t,0.66,t,132,f,6,SVI,NO CONDITION
+840817008,59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,104,t,0.86,t,121,f,6,other,NO CONDITION
+840817009,49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,80,t,0.76,t,105,f,6,SVI,NO CONDITION
+840817010,44,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,105,t,0.9,t,117,f,6,SVI,NO CONDITION
+840817012,44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,120,f,6.5596384079096035,f,6,f,6,SVHC,NO CONDITION
+840817028,46,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,f,6,t,121,t,1.0,t,121,f,6,other,NO CONDITION
+840817038,35,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,t,2,f,6,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840817056,56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,152,t,1.16,t,131,f,6,other,NO CONDITION
+840817058,54,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,1,t,79,t,0.68,t,116,f,6,SVI,NO CONDITION
+840817059,54,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,2,t,98,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840817060,54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,109,t,1.12,t,97,f,6,other,NO CONDITION
+840817061,54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,114,t,0.92,t,124,f,6,SVI,NO CONDITION
+840817062,61,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,9,t,1,t,114,t,0.84,t,136,f,6,other,G
+840817064,40,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,139,t,0.98,t,142,f,6,other,NO CONDITION
+840817065,48,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,2,t,106,t,1.0,t,106,f,6,other,NO CONDITION
+840820001,64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,104,t,1.04,t,100,f,6,SVI,NO CONDITION
+840820002,27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,131,t,1.26,t,104,f,6,other,NO CONDITION
+840820003,69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,3,t,112,f,6.5596384079096035,f,6,f,6,SVI,NO CONDITION
+840820004,69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,2,t,64,f,6.5596384079096035,f,6,f,6,SVHC,NO CONDITION
+840820009,60,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,1,t,109,t,0.83,t,131,f,6,other,NO CONDITION
+840820014,27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,90,t,0,t,7,t,0.94,t,7,f,6,other,F
+840820020,27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,104,t,0.97,t,107,f,6,SVI,NO CONDITION
+840820021,51,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1,t,1,t,68,t,0.93,t,73,f,6,SVI,NO CONDITION
+840820022,76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,97,t,0.88,t,110,f,6,SVI,NO CONDITION
+840820027,52,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,133,t,1.02,t,130,f,6,other,NO CONDITION
+840820047,73,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,99,t,0.95,t,104,f,6,other,NO CONDITION
+840820052,68,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,64,t,0.7,t,97,f,6,other,NO CONDITION
+840821009,66,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,92,t,1.04,t,88,f,6,SVHC,NO CONDITION
+840821010,66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,115,t,0.9,t,128,f,6,SVHC,NO CONDITION
+840821011,30,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,120,t,0.98,t,122,f,6,other,NO CONDITION
+840821012,30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,95,t,0.87,t,102,f,6,SVI,NO CONDITION
+840821013,30,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,100,f,6.5596384079096035,f,6,f,6,SVHC,NO CONDITION
+840821014,28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,106,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840821016,88,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,98,t,0.73,t,134,f,6,other,K
+840821017,38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,184,t,1.13,t,163,f,6,SVHC,R
+840821022,66,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,f,6,t,81,t,1.29,t,63,f,6,other,I
+840821023,58,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,5,t,1,t,86,t,0.91,t,95,f,6,other,NO CONDITION
+840821024,21,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,95,t,1.04,t,91,f,6,other,NO CONDITION
+840821042,56,M,t,f,f,f,f,f,f,f,f,f,t,f,f,f,f,6,f,6,t,87,t,1.3,t,67,f,6,other,I
+840821043,60,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,1,t,109,t,0.83,t,131,f,6,other,NO CONDITION
+840821047,38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,86,t,1.0,t,86,f,6,other,NO CONDITION
+840821049,38,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,308,t,0.87,t,354,f,6,other,A
+840821054,49,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,57,t,0.7,t,81,f,6,SVI,K
+840821055,27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,98,t,0.96,t,102,f,6,SVI,NO CONDITION
+840821056,70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,82,t,0.75,t,109,f,6,SVI,K
+840821063,70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,36,other,S
+840822006,45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,122,t,1.07,t,114,f,6,SVHC,NO CONDITION
+840822008,83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,97,t,0.8,t,121,f,6,other,K
+840822023,28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,3,t,170,t,1.83,t,93,f,6,STMW,I
+840822025,44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,71,t,0.88,t,81,f,6,SVI,NO CONDITION
+840822026,62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,130,f,6.5596384079096035,f,6,f,6,SVI,NO CONDITION
+840822027,51,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1,t,2,t,126,t,1.03,t,122,f,6,other,NO CONDITION
+840822028,77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,128,t,1.13,t,113,f,6,SVI,NO CONDITION
+840822029,60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,51,t,0.61,t,84,f,6,other,NO CONDITION
+840822030,30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,105,t,0.79,t,133,f,6,SVI,NO CONDITION
+840822031,30,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,163,t,0.96,t,170,f,6,other,N
+840822033,25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,105,t,1.06,t,99,f,6,other,NO CONDITION
+840823001,86,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,94,t,1.01,t,93,f,6,SVI,NO CONDITION
+840823002,83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,4,t,144,t,1.44,t,100,f,6,other,I
+840823003,83,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,131,t,1.18,t,111,f,6,SVI,NO CONDITION
+840823004,75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,2,t,112,t,1.04,t,108,f,6,SVHC,NO CONDITION
+840823005,75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,73,t,0.86,t,85,f,6,other,NO CONDITION
+840823006,72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,95,t,0.59,t,161,f,6,other,R
+840823007,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,63,t,0.81,t,78,f,6,SVI,NO CONDITION
+840823008,28,M,f,f,f,f,f,t,f,f,t,f,f,t,f,f,t,3,t,2,t,78,t,0.89,t,88,f,6,other,NO CONDITION
+840823010,55,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,t,1,t,129,t,0.87,t,148,f,6,other,NO CONDITION
+840823011,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,63,t,0.64,t,98,f,6,other,NO CONDITION
+840823019,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,133,t,1.01,t,132,f,6,other,NO CONDITION
+840823025,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,91,t,0.91,t,100,f,6,other,NO CONDITION
+840823030,27,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,t,2,t,109,t,1.2,t,91,f,6,other,NO CONDITION
+840823032,45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,2,f,6,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840823038,14,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,88,t,0.83,t,106,f,6,other,NO CONDITION
+840823039,40,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0,t,3,t,112,t,0.83,t,135,f,6,other,I
+840823040,28,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0,t,1,t,85,t,1.06,t,80,f,6,other,NO CONDITION
+840823041,68,M,f,f,f,f,f,f,t,f,t,f,f,f,f,f,t,1,t,2,t,118,t,0.93,t,127,f,6,other,NO CONDITION
+840823042,40,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,125,t,0.98,t,128,f,6,other,NO CONDITION
+840823043,15,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,95,t,0.82,t,116,f,6,other,NO CONDITION
+840823044,68,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,196,t,0.92,t,213,f,6,other,N
+840823054,61,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,t,130,t,1.19,t,109,f,6,other,NO CONDITION
+840823055,63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,153,t,1.03,t,149,f,6,SVI,NO CONDITION
+840823063,63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,90,t,0.82,t,110,f,6,SVI,NO CONDITION
+840823077,60,F,t,f,f,f,f,f,t,f,t,f,f,f,f,f,t,7,t,1,t,125,t,0.99,t,126,f,6,other,M
+840823078,77,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,130,t,0.98,t,133,f,6,other,NO CONDITION
+840823084,48,M,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0,f,6,t,96,t,0.95,t,101,f,6,other,NO CONDITION
+840823085,39,M,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,127,t,1.07,t,119,f,6,other,NO CONDITION
+840823086,39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,3,t,129,f,6.5596384079096035,f,6,f,6,other,I
+840823087,42,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,t,51,t,0.78,t,65,f,6,other,NO CONDITION
+840823089,15,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,108,t,0.97,t,111,f,6,other,NO CONDITION
+840823090,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,78,t,0.88,t,89,f,6,other,NO CONDITION
+840823091,62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,105,t,0.88,t,119,f,6,SVI,NO CONDITION
+840823092,26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,3,t,150,t,1.56,t,96,f,6,SVI,I
+840823093,63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,152,t,1.06,t,143,f,6,SVI,NO CONDITION
+840824001,58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,7,t,250,t,0.79,t,316,f,6,other,A
+840824002,55,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,141,t,0.91,t,155,f,6,other,NO CONDITION
+840824009,77,F,f,f,f,f,f,f,f,t,f,f,f,t,f,f,t,0,t,1,t,110,t,1.05,t,105,f,6,other,NO CONDITION
+840824010,43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,101,f,6.5596384079096035,f,6,f,6,SVHC,NO CONDITION
+840824011,73,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,210,t,1.22,t,172,f,6,other,N
+840824015,20,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1,t,1,t,63,t,0.71,t,89,f,6,STMW,NO CONDITION
+840824043,61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,2,t,140,t,1.32,t,106,f,6,other,NO CONDITION
+840824046,49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,99,t,1.01,t,98,f,6,other,NO CONDITION
+840827001,80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,132,t,0.88,t,150,f,6,other,NO CONDITION
+840827002,90,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,102,t,0.99,t,103,f,6,SVI,NO CONDITION
+840827003,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,98,t,0.82,t,120,f,6,SVI,NO CONDITION
+840827004,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,81,t,0.95,t,85,f,6,other,NO CONDITION
+840827005,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,74,t,0.67,t,110,f,6,other,NO CONDITION
+840827006,29,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,105,t,0.86,t,122,f,6,other,NO CONDITION
+840827007,23,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,80,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840827008,15,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,f,6,t,188,t,0.73,t,258,f,6,other,A
+840827019,40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,70,t,0,t,3,t,0.83,t,5,t,28,other,F
+840827023,18,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,6,t,2,t,117,t,0.96,t,122,f,6,other,M
+840827025,18,6.5596384079096035,f,f,f,f,t,f,f,f,f,f,f,f,f,f,t,11,t,2,t,87,t,0.32,t,272,f,6,other,R
+840827028,18,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,0,t,84,t,0.32,t,263,f,6,other,KJ
+840827035,30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,91,t,0.82,t,111,f,6,SVI,NO CONDITION
+840827036,63,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,1,t,130,t,1.05,t,124,f,6,SVI,NO CONDITION
+840827041,13,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,3,t,134,t,1.11,t,121,f,6,other,NO CONDITION
+840827053,35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,97,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840827054,78,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,110,t,0.89,t,124,f,6,SVI,NO CONDITION
+840827055,76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,138,t,0.83,t,166,f,6,SVI,R
+840827060,24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,111,f,6.5596384079096035,f,6,f,6,SVI,NO CONDITION
+840827062,37,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0,t,2,t,144,t,0.83,t,173,f,6,other,L
+840827065,20,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,119,t,0.86,t,138,f,6,other,NO CONDITION
+840828001,27,F,t,f,f,f,f,t,f,t,f,f,f,f,f,f,t,88,t,0,t,79,t,0.92,t,86,f,6,other,MK
+840828002,62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,90,t,0.84,t,107,f,6,SVI,NO CONDITION
+840828003,24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,105,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840828024,68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,87,t,0.85,t,102,f,6,other,NO CONDITION
+840828031,38,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,f,6,f,6,t,98,t,0.86,t,114,f,6,other,NO CONDITION
+840828033,60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,121,t,1.02,t,119,f,6,SVI,NO CONDITION
+840828034,49,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,2,t,0,t,27,t,0.52,t,52,f,6,SVI,NO CONDITION
+840828035,63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,119,t,0.96,t,124,f,6,SVI,NO CONDITION
+840828036,58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,89,t,0.75,t,119,f,6,SVI,NO CONDITION
+840828037,58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,125,t,1.15,t,109,f,6,SVI,NO CONDITION
+840828039,58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,110,t,0.95,t,116,f,6,SVI,NO CONDITION
+840828040,35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,112,t,1.21,t,93,f,6,SVI,NO CONDITION
+840828042,35,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,68,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840828046,59,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,157,t,0.96,t,164,f,6,other,L
+840829005,71,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,119,t,0.91,t,131,f,6,SVHD,NO CONDITION
+840829012,81,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,83,t,0.83,t,100,f,6,other,NO CONDITION
+840829013,92,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,134,t,1.11,t,121,f,6,other,NO CONDITION
+840829014,92,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,68,t,0.79,t,89,f,6,SVI,NO CONDITION
+840829015,53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,104,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840829021,57,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,4,t,236,t,0.7,t,337,f,6,SVI,A
+840829035,57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,91,t,0.97,t,94,f,6,SVI,NO CONDITION
+840829036,57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,97,t,0.99,t,98,f,6,SVI,NO CONDITION
+840829037,28,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,113,t,0.96,t,118,f,6,SVI,NO CONDITION
+840829038,74,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,88,t,0.81,t,109,f,6,SVI,NO CONDITION
+840829039,74,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,85,t,1.01,t,84,f,6,SVI,NO CONDITION
+840829040,74,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,82,t,0.61,t,134,f,6,SVI,NO CONDITION
+840829041,75,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1,t,1,t,88,t,0.77,t,114,f,6,SVI,NO CONDITION
+840829042,54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,120,t,0.66,t,182,f,6,other,NO CONDITION
+840829043,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,81,t,0.86,t,94,f,6,other,NO CONDITION
+840829044,41,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,113,t,1.07,t,106,f,6,SVI,NO CONDITION
+840829052,62,F,t,f,f,f,f,f,f,f,t,f,f,t,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,36,other,S
+840829056,33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,23,other,NO CONDITION
+840830002,33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,104,t,0.8,t,130,f,6,SVHC,NO CONDITION
+840830003,33,M,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,53,t,1,t,32,t,0.78,t,41,f,6,SVI,Q
+840830004,33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,55,t,0.79,t,70,f,6,other,NO CONDITION
+840830008,45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,111,t,1.03,t,108,f,6,SVI,NO CONDITION
+840830031,62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,84,t,0.69,t,122,f,6,other,NO CONDITION
+840830034,62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,144,t,0.97,t,148,f,6,SVI,NO CONDITION
+840830045,24,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,16,f,6,t,106,t,1.51,t,70,f,6,other,M
+840830052,9,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,2,t,145,t,0.98,t,148,f,6,other,NO CONDITION
+840830053,44,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,8,t,1,t,108,t,1.01,t,107,f,6,other,G
+840830055,28,F,t,f,f,f,f,t,f,f,t,f,f,f,f,f,t,3,t,2,t,136,t,1.33,t,103,f,6,other,NO CONDITION
+840830063,28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,145,t,1.01,t,144,t,26,other,NO CONDITION
+840830064,28,M,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,4,t,2,t,81,t,1.0,t,81,f,6,other,NO CONDITION
+840831006,41,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,72,t,0.89,t,81,f,6,other,NO CONDITION
+840831007,64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,96,t,1.03,t,93,f,6,other,NO CONDITION
+840831037,25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,118,t,0.97,t,122,f,6,SVI,NO CONDITION
+840831047,60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,130,t,1.01,t,129,f,6,SVI,NO CONDITION
+840831049,73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,44,t,0.55,t,80,f,6,other,J
+840831054,71,F,f,f,t,f,f,f,f,f,t,f,f,f,f,f,t,1,t,2,t,158,t,1.16,t,136,f,6,other,NO CONDITION
+840831055,40,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,1,f,6,t,73,t,0.87,t,84,f,6,other,NO CONDITION
+840831058,72,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,96,t,0.91,t,105,f,6,other,NO CONDITION
+840831059,36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,f,6,t,81,t,1.01,t,80,f,6,other,NO CONDITION
+840903001,40,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,69,t,0.99,t,68,f,6,other,NO CONDITION
+840903002,47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,80,t,0,t,9,t,0.85,t,10,f,6,other,F
+840903003,47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,176,t,0,t,6,t,1.45,t,4,f,6,other,F
+840903004,70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,81,t,0.85,t,95,f,6,other,NO CONDITION
+840903005,17,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,87,t,0.96,t,91,f,6,SVHC,NO CONDITION
+840903006,25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,87,t,0.85,t,102,f,6,SVI,NO CONDITION
+840903007,72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,30,t,0,t,15,t,1.48,t,10,f,6,SVI,F
+840903008,70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1,t,2,t,96,t,1.0,t,96,f,6,SVHC,NO CONDITION
+840903009,76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,2,t,149,t,1.24,t,120,f,6,SVHC,NO CONDITION
+840903010,71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,3,t,144,t,1.79,t,80,f,6,other,I
+840903053,28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,84,t,0.93,t,90,f,6,other,NO CONDITION
+840903054,60,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,108,t,0.92,t,117,f,6,other,NO CONDITION
+840903058,72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,11,t,0,t,13,t,1.0,t,13,f,6,other,F
+840903065,24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,97,t,1.12,t,87,f,6,other,NO CONDITION
+840903068,11,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,0,t,95,t,0.68,t,140,f,6,SVI,K
+840903071,11,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,t,0,t,1,t,61,t,0.82,t,74,f,6,SVI,NO CONDITION
+840903072,50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,79,t,0.72,t,110,f,6,SVI,NO CONDITION
+840903073,50,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,78,t,0.78,t,100,f,6,SVI,K
+840903074,50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,105,t,0.93,t,113,f,6,SVI,NO CONDITION
+840903075,57,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,114,t,1.05,t,109,f,6,other,NO CONDITION
+840903083,53,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,182,t,1.2,t,152,f,6,other,NO CONDITION
+840903084,27,F,f,f,f,f,t,t,f,f,f,f,f,f,f,f,t,6,t,3,t,149,t,1.73,t,86,f,6,other,I
+840903085,55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,125,t,0.95,t,132,f,6,other,NO CONDITION
+840904003,74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,1,t,73,t,0.95,t,77,f,6,SVHC,NO CONDITION
+840904005,72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,71,t,0,t,4,t,1.27,t,3,f,6,SVI,F
+840904006,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,83,t,1.01,t,82,f,6,SVHC,NO CONDITION
+840904007,56,F,t,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0,t,2,t,86,t,0.88,t,98,f,6,other,NO CONDITION
+840904009,32,F,t,f,f,f,t,f,f,f,f,f,f,t,f,f,t,0,t,3,t,178,t,1.68,t,106,f,6,other,C|I
+840904017,27,M,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,9,t,1,t,135,t,0.93,t,145,f,6,other,G
+840904027,57,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0,f,6,t,109,t,1.12,t,97,f,6,other,NO CONDITION
+840904028,26,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,79,t,0.93,t,85,f,6,other,NO CONDITION
+840904029,50,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,10,f,6,t,70,t,1.1,t,64,f,6,other,F
+840904034,28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,78,t,1.01,t,77,f,6,other,NO CONDITION
+840904037,75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,1,t,71,t,0.9,t,79,f,6,SVHC,NO CONDITION
+840904042,36,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,99,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840904045,28,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,2,t,131,t,0.89,t,147,f,6,other,NO CONDITION
+840904046,47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,96,t,1.09,t,88,f,6,SVI,NO CONDITION
+840904047,33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,151,t,1.43,t,106,f,6,SVI,NO CONDITION
+840904048,35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,100,t,0.96,t,104,f,6,SVI,NO CONDITION
+840904049,35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,89,t,0.82,t,109,f,6,other,NO CONDITION
+840905002,60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,113,t,0.85,t,133,f,6,other,NO CONDITION
+840905003,60,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0,t,1,t,151,t,1.03,t,147,f,6,other,NO CONDITION
+840905004,60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,71,t,0.76,t,93,f,6,SVI,NO CONDITION
+840905005,45,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1,t,2,t,56,t,1.03,t,54,f,6,other,NO CONDITION
+840905019,61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,118,t,0.96,t,123,f,6,SVI,NO CONDITION
+840905025,63,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,73,t,0.85,t,86,f,6,other,NO CONDITION
+840905027,76,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1,t,1,t,117,t,1.01,t,116,f,6,SVHC,NO CONDITION
+840905029,33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,1,t,59,t,0.87,t,68,f,6,SVHC,NO CONDITION
+840905030,75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,104,t,0.94,t,111,f,6,SVI,NO CONDITION
+840905032,34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,83,t,0.69,t,120,f,6,SVI,NO CONDITION
+840905037,83,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,79,t,0.8,t,99,f,6,SVI,NO CONDITION
+840905038,54,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,86,t,0.85,t,101,f,6,other,K
+840905041,25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,98,t,0.91,t,108,f,6,other,NO CONDITION
+840905046,16,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,84,t,0.82,t,102,f,6,other,NO CONDITION
+840906002,70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,213,t,1.0,t,213,f,6,other,AK
+840906003,8,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,117,t,1.2,t,98,f,6,other,NO CONDITION
+840906005,73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,63,t,0.76,t,83,f,6,SVI,K
+840906006,73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,77,t,0.86,t,90,f,6,other,NO CONDITION
+840906007,41,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,4,t,1,t,88,t,0.84,t,105,f,6,other,NO CONDITION
+840906011,41,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,14,t,2,t,222,t,0.35,t,634,f,6,other,R
+840906012,41,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,195,t,0.3,t,650,f,6,other,R
+840906015,43,M,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,1,t,1,t,98,t,0.71,t,138,f,6,other,NO CONDITION
+840906016,79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,110,t,1.01,t,109,f,6,SVI,NO CONDITION
+840906018,79,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,7,t,2,t,84,t,0.92,t,91,f,6,other,M
+840906021,77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,46,t,0,t,14,t,1.19,t,12,f,6,SVI,F
+840906022,77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,91,t,1.1,t,83,f,6,other,NO CONDITION
+840906024,31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,69,t,0.83,t,83,f,6,other,NO CONDITION
+840906026,27,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,18,f,6,t,61,t,1.01,t,61,f,6,other,F
+840906027,66,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,2,t,139,t,1.1,t,126,f,6,other,NO CONDITION
+840906029,65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,170,t,0,t,12,t,1.05,t,11,f,6,other,F
+840906034,48,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,115,t,1.0,t,115,f,6,other,NO CONDITION
+840906044,48,F,t,t,f,f,f,f,f,f,f,f,f,f,f,f,t,19,f,6,t,84,t,0.96,t,88,f,6,other,M
+840906049,58,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,7,t,1,t,40,t,1.13,t,35,f,6,other,O
+840906050,53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,135,t,1.28,t,105,f,6,other,NO CONDITION
+840906051,55,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,1,t,1,t,99,t,0.95,t,104,f,6,other,NO CONDITION
+840906057,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,2,t,67,t,0.82,t,82,f,6,other,NO CONDITION
+840906059,55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,89,t,0.93,t,96,f,6,other,NO CONDITION
+840906060,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,127,t,1.18,t,108,f,6,SVI,NO CONDITION
+840906063,84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,105,t,0.98,t,107,f,6,SVI,NO CONDITION
+840906064,65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,145,t,0,t,16,t,0.94,t,17,f,6,SVI,F
+840906071,54,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,1,f,6,t,60,t,0.68,t,88,f,6,other,NO CONDITION
+840906077,56,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,33,t,0.2,t,165,f,6,other,LJ
+840906081,56,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,167,t,1.41,t,118,f,6,other,L
+840906089,21,M,f,f,f,f,f,t,t,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,18,other,NO CONDITION
+840906095,12,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,2,t,97,t,0.97,t,100,f,6,other,NO CONDITION
+840907001,59,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,152,t,0.91,t,167,f,6,other,L
+840907002,18,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0,t,2,t,148,t,0.97,t,153,f,6,other,I
+840907012,10,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,82,t,0.77,t,106,f,6,other,NO CONDITION
+840907028,82,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,147,t,1.12,t,131,f,6,other,NO CONDITION
+840907050,30,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,112,t,0.85,t,132,f,6,SVI,NO CONDITION
+840907052,67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,78,t,0.86,t,91,f,6,SVI,NO CONDITION
+840907053,77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,123,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840907054,68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,91,t,0.98,t,93,f,6,SVI,NO CONDITION
+840907055,78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,101,t,0.92,t,110,f,6,SVI,NO CONDITION
+840907056,60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,130,t,0.94,t,138,f,6,SVI,NO CONDITION
+840907057,35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,50,t,0.78,t,64,f,6,SVI,K
+840907060,67,F,f,f,f,f,f,f,t,t,f,f,f,f,f,f,t,0,t,2,t,93,t,1.13,t,82,f,6,other,NO CONDITION
+840907075,36,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,1,t,65,t,0.81,t,80,f,6,other,NO CONDITION
+840910006,88,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,7,t,1,t,47,t,1.07,t,44,f,6,other,F
+840910007,76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,113,t,1.07,t,106,f,6,other,NO CONDITION
+840910008,73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,81,t,0.86,t,94,f,6,SVI,NO CONDITION
+840910009,73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,90,t,0.93,t,97,f,6,other,NO CONDITION
+840910011,73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,19,t,2,t,66,t,1.09,t,61,f,6,SVHC,F
+840910012,73,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1,t,2,t,105,t,1.14,t,92,f,6,SVI,NO CONDITION
+840910013,19,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,55,t,0.53,t,104,f,6,other,J
+840910023,42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,48,f,6,t,7,t,1.02,t,7,f,6,other,F
+840910024,72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,25,t,0,t,4,t,1.2,t,3,f,6,other,F
+840910037,11,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,90,t,1.07,t,84,f,6,other,NO CONDITION
+840910038,78,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1,f,6,t,64,t,1.19,t,54,f,6,other,NO CONDITION
+840910044,78,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,49,t,0.89,t,55,f,6,other,R
+840910045,78,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,72,t,0.61,t,118,f,6,SVI,K
+840910046,29,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,7,t,1,t,90,t,1.48,t,61,f,6,SVI,NO CONDITION
+840910047,29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,1,t,73,t,1.0,t,73,f,6,SVHC,NO CONDITION
+840910049,16,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,0,f,6,t,101,t,1.1,t,92,f,6,other,NO CONDITION
+840910050,70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,75,t,1.06,t,71,f,6,other,NO CONDITION
+840910056,58,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,4,t,202,t,0.8,t,253,f,6,other,A
+840910057,27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,90,t,0.98,t,92,f,6,other,NO CONDITION
+840910060,77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,116,t,1.0,t,116,f,6,other,NO CONDITION
+840910069,77,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,6,f,6,t,114,t,1.52,t,75,f,6,other,G
+840911005,43,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,153,f,6,t,3,t,1.23,t,2,f,6,other,F
+840911016,22,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,f,6,f,6,t,149,t,1.38,t,108,f,6,WEST,I
+840911020,62,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,6,t,169,t,0.86,t,197,f,6,other,A
+840911029,43,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,200,t,1.1,t,182,f,6,other,N
+840911036,24,M,t,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,101,t,0.86,t,117,f,6,SVI,NO CONDITION
+840911037,69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,126,t,1.02,t,124,f,6,SVI,NO CONDITION
+840911038,65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,35,t,1,t,24,t,0.99,t,24,f,6,SVI,F
+840911039,65,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,2,t,105,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840911040,65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,88,t,0.78,t,113,f,6,SVI,K
+840911041,65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,70,t,0.74,t,95,f,6,SVI,NO CONDITION
+840911042,84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,105,t,1.01,t,104,f,6,other,NO CONDITION
+840911045,16,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,128,t,1.06,t,121,f,6,other,NO CONDITION
+840911047,32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,87,t,0.89,t,98,f,6,other,NO CONDITION
+840911059,30,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,139,t,0.89,t,156,f,6,other,L
+840911060,30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,90,t,0.96,t,94,f,6,other,NO CONDITION
+840912001,34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,4,t,242,t,1.02,t,237,f,6,other,A
+840912002,86,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,162,t,0.8,t,203,f,6,other,AK
+840912004,66,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,103,t,0.95,t,108,f,6,other,NO CONDITION
+840912005,24,F,f,f,f,f,t,f,f,f,f,f,f,t,f,f,t,0,t,2,t,151,t,1.53,t,99,f,6,STMW,NO CONDITION
+840913002,49,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,5,t,2,t,112,t,1.0,t,112,f,6,STMW,NO CONDITION
+840913004,31,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1,t,3,t,109,t,1.62,t,67,f,6,STMW,I
+840913006,47,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,1,t,2,t,82,t,1.02,t,80,f,6,SVI,NO CONDITION
+840913009,47,M,f,f,t,f,f,f,f,f,t,f,f,f,f,f,f,6,f,6,t,104,t,0.84,t,124,f,6,other,NO CONDITION
+840913015,68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,78,t,0.82,t,95,f,6,SVI,NO CONDITION
+840913016,68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,2,t,108,t,1.03,t,105,f,6,other,NO CONDITION
+840913017,69,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,94,t,1.03,t,91,f,6,other,NO CONDITION
+840913018,70,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,143,t,1.07,t,134,f,6,SVI,NO CONDITION
+840913019,70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,98,t,1.03,t,95,f,6,other,NO CONDITION
+840913020,69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,90,t,0.61,t,148,f,6,other,NO CONDITION
+840913021,79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,117,t,0.82,t,143,f,6,other,NO CONDITION
+840913032,63,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,99,t,0.93,t,106,f,6,other,NO CONDITION
+840913033,51,M,f,f,f,f,f,f,t,f,t,f,f,f,f,f,t,0,t,2,t,93,t,0.66,t,141,f,6,other,NO CONDITION
+840913034,70,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,95,t,1.0,t,95,f,6,other,NO CONDITION
+840913038,25,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,t,9,f,6,t,64,t,0.96,t,67,f,6,other,G
+840913040,68,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0,t,2,t,112,t,1.05,t,107,f,6,other,NO CONDITION
+840913041,18,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,2,t,104,t,1.19,t,87,f,6,other,NO CONDITION
+840913042,76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,107,t,1.02,t,105,f,6,other,NO CONDITION
+840913043,78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,1,f,6,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840913045,57,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,12,f,6,t,99,t,1.15,t,86,f,6,other,M
+840913047,57,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,82,t,1.05,t,78,f,6,other,NO CONDITION
+840913051,64,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0,t,2,t,123,t,1.16,t,107,f,6,other,NO CONDITION
+840913052,42,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,84,t,0.94,t,89,f,6,other,NO CONDITION
+840913053,51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,4,t,4,t,1.11,t,3,f,6,other,NO CONDITION
+840913059,65,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,186,t,0.98,t,190,f,6,other,N
+840913061,20,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,1,t,110,t,0.92,t,120,f,6,other,NO CONDITION
+840913063,66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,124,t,0.92,t,135,f,6,other,NO CONDITION
+840913068,72,F,f,t,f,f,f,f,f,t,f,f,f,f,f,f,t,4,t,1,t,74,t,0.81,t,91,f,6,other,K
+840914002,30,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,f,6,t,2,t,61,t,1.66,t,37,f,6,STMW,I
+840914012,58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,104,t,1.21,t,86,f,6,other,NO CONDITION
+840914013,58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,30,t,0,t,13,t,0.97,t,13,f,6,SVHC,F
+840914014,71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,1,t,94,t,0.97,t,97,f,6,SVHC,NO CONDITION
+840914015,51,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,75,t,0.7,t,107,f,6,SVI,NO CONDITION
+840914017,48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,111,t,1.1,t,101,f,6,SVI,NO CONDITION
+840914018,80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,92,t,0.87,t,106,f,6,other,NO CONDITION
+840914019,80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,58,t,0.87,t,67,f,6,SVHC,K
+840914043,66,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0,f,6,t,73,t,0.81,t,90,f,6,other,NO CONDITION
+840914044,21,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,1,t,94,t,0.88,t,107,f,6,other,NO CONDITION
+840914045,53,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,15,t,1,t,44,t,0.98,t,45,f,6,other,F
+840914046,75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,2,t,87,t,0.89,t,98,f,6,SVHC,NO CONDITION
+840914049,23,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,103,t,0.96,t,107,f,6,SVI,NO CONDITION
+840914050,23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,91,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840914051,51,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,77,t,0.4,t,193,f,6,SVI,R
+840914072,29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,36,other,S
+840917002,47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,2,t,109,t,1.07,t,102,f,6,SVHC,NO CONDITION
+840917003,24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,74,t,0.98,t,111,f,6,other,NO CONDITION
+840917004,55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,51,t,0.89,t,57,f,6,other,H|K
+840917005,72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,10,t,1,t,35,t,0.77,t,76,f,6,other,NO CONDITION
+840917007,49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,101,t,1.12,t,90,f,6,SVHC,NO CONDITION
+840917009,54,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,3,t,2,t,144,t,1.44,t,100,f,6,other,NO CONDITION
+840917012,62,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,150,t,0.94,t,160,f,6,other,NO CONDITION
+840917018,67,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,134,t,0.93,t,144,f,6,STMW,NO CONDITION
+840917031,62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,21,other,NO CONDITION
+840917037,20,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,121,t,0.91,t,133,f,6,other,NO CONDITION
+840917038,24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,430,t,0,t,6,t,1.04,t,6,f,6,other,F
+840917039,72,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,180,t,0.9,t,200,f,6,other,N
+840917043,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,8,t,359,t,0.74,t,485,f,6,other,A
+840917045,57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,2,t,115,t,0.96,t,120,f,6,SVI,NO CONDITION
+840917046,57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,123,t,0.97,t,127,f,6,SVI,NO CONDITION
+840917047,65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,213,t,0,t,43,t,0.95,t,45,f,6,SVI,F
+840917051,58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,1,t,77,t,0.84,t,92,f,6,other,NO CONDITION
+840917053,71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,71,t,0.78,t,91,f,6,other,K
+840917054,24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,37,f,6,t,47,t,0.95,t,49,f,6,other,F
+840918002,43,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,216,f,6,t,4,t,1.28,t,3,f,6,other,F
+840918004,39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,94,t,1.06,t,89,f,6,other,NO CONDITION
+840918044,50,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,26,f,6,t,104,t,1.13,t,92,f,6,other,M
+840918046,72,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,f,6,t,124,t,1.16,t,107,f,6,other,NO CONDITION
+840918047,72,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,134,t,0.85,t,158,f,6,other,L
+840918049,38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,105,t,1.0,t,105,f,6,SVI,NO CONDITION
+840918050,62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,106,t,1.03,t,103,f,6,SVI,NO CONDITION
+840918051,74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,2,t,77,t,0.99,t,78,f,6,SVI,NO CONDITION
+840918058,36,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,128,t,0.87,t,147,f,6,other,NO CONDITION
+840918059,71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,2,t,108,t,1.09,t,99,f,6,other,NO CONDITION
+840918060,71,6.5596384079096035,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,1,t,2,t,95,t,1.1,t,86,f,6,SVI,NO CONDITION
+840918061,42,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0,t,2,t,116,t,1.05,t,110,f,6,SVI,NO CONDITION
+840918062,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,106,t,1.86,t,123,f,6,SVI,NO CONDITION
+840918073,42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,90,t,0.98,t,92,f,6,other,NO CONDITION
+840918077,60,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,3,t,225,t,1.14,t,197,f,6,other,N
+840918089,30,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,33,other,S
+840919002,30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,101,f,6.5596384079096035,f,6,f,6,SVI,NO CONDITION
+840919003,48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,86,f,6.5596384079096035,f,6,f,6,SVI,NO CONDITION
+840919004,71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,99,t,1.02,t,97,f,6,SVI,NO CONDITION
+840919005,60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,59,t,0.64,t,92,f,6,SVI,NO CONDITION
+840919023,51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,137,t,1.0,t,137,f,6,SVI,NO CONDITION
+840919024,73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,104,t,1.23,t,85,f,6,SVI,NO CONDITION
+840919025,1,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,65,t,0.89,t,73,f,6,SVI,NO CONDITION
+840919026,30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,124,t,1.23,t,101,f,6,other,NO CONDITION
+840919054,52,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,2,t,1,t,85,t,1.14,t,75,f,6,other,NO CONDITION
+840919069,59,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,47,t,1,t,79,t,1.13,t,70,f,6,other,G
+840920001,59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,98,t,1.07,t,92,f,6,other,NO CONDITION
+840920002,78,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,87,t,0.95,t,92,f,6,SVHC,NO CONDITION
+840920004,22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,83,t,0.93,t,89,f,6,SVHC,NO CONDITION
+840920006,79,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,119,t,1.59,t,75,f,6,SVI,I
+840920007,33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,124,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840920008,25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,1,t,80,t,0.81,t,99,f,6,other,NO CONDITION
+840920012,25,M,f,f,t,f,f,f,f,f,t,f,f,f,f,f,t,0,t,2,t,95,t,0.9,t,106,f,6,other,NO CONDITION
+840920014,70,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,150,t,0.94,t,160,f,6,other,L
+840920016,46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,1,t,74,t,0.9,t,82,f,6,other,NO CONDITION
+840920020,46,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8,t,3,t,124,t,0.29,t,428,f,6,other,D
+840920021,46,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,14,t,1,t,153,t,0.34,t,450,f,6,other,R
+840920028,27,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,166,t,1.43,t,116,f,6,other,NO CONDITION
+840920034,33,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,f,6,f,6,t,104,t,1.01,t,103,f,6,other,NO CONDITION
+840920041,60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,112,t,1.2,t,93,f,6,other,NO CONDITION
+840920043,64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,82,t,0.96,t,85,f,6,other,NO CONDITION
+840920044,64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,109,t,0.88,t,124,f,6,SVHC,K
+840920045,32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,17,t,1,t,90,t,1.21,t,74,f,6,SVHC,G
+840920046,31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,101,t,0.8,t,126,f,6,SVI,NO CONDITION
+840920047,66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,2,t,93,t,0.92,t,101,f,6,SVI,NO CONDITION
+840920052,61,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,169,t,1.17,t,144,f,6,other,NO CONDITION
+840920053,61,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,150,t,0.86,t,174,f,6,other,L
+840920058,49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,90,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840920061,24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,20,other,NO CONDITION
+840920063,23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,19,other,NO CONDITION
+840920072,60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,77,t,0.75,t,103,f,6,other,NO CONDITION
+840920074,45,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,166,t,0.88,t,189,f,6,other,N
+840920075,59,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,196,t,0.97,t,202,f,6,other,N
+840920078,50,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0,t,2,t,141,t,1.44,t,98,f,6,other,NO CONDITION
+840920079,25,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,6,f,6,t,114,t,1.19,t,96,f,6,other,G
+840920080,58,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,132,t,0.97,t,136,f,6,other,NO CONDITION
+840920093,40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,101,t,0.96,t,105,t,20,other,NO CONDITION
+840920097,40,F,f,t,f,f,f,t,f,t,f,f,f,f,f,f,t,0,t,2,t,153,t,0.96,t,159,f,6,other,L
+840920098,58,F,f,t,f,f,f,t,f,f,f,f,f,f,f,f,t,0,t,2,t,129,t,0.95,t,136,f,6,other,NO CONDITION
+840920100,24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,82,t,0.95,t,86,f,6,other,NO CONDITION
+840921002,34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,7,t,302,f,6.5596384079096035,f,6,f,6,STMW,A
+840921006,43,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,t,61,t,0.74,t,82,f,6,other,NO CONDITION
+840921007,53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,75,t,0.98,t,77,f,6,SVI,NO CONDITION
+840921008,65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,100,t,0,t,62,t,0.94,t,66,f,6,SVI,GK
+840921024,57,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8,t,1,t,108,t,0.85,t,127,f,6,other,M
+840921025,45,F,t,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0,t,2,t,206,t,1.05,t,196,f,6,other,N
+840921033,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,65,t,0.72,t,90,f,6,SVI,NO CONDITION
+840921034,54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,115,t,1.04,t,111,f,6,SVI,NO CONDITION
+840921035,65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,86,f,6.5596384079096035,f,6,f,6,SVI,NO CONDITION
+840921036,64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,77,t,0.98,t,79,f,6,SVI,NO CONDITION
+840921037,58,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,t,101,t,0.98,t,103,f,6,other,NO CONDITION
+840921038,84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,71,t,0.9,t,79,f,6,SVI,NO CONDITION
+840921039,63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,121,t,0.99,t,122,f,6,SVI,NO CONDITION
+840921040,23,M,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0,t,2,t,98,t,1.04,t,94,f,6,SVI,NO CONDITION
+840921041,23,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,13,t,0,t,66,t,0.98,t,67,f,6,SVI,GK
+840921062,39,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,t,116,t,1.07,t,108,f,6,other,NO CONDITION
+840924002,36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,98,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840924010,37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,109,t,0.9,t,121,f,6,other,NO CONDITION
+840924013,54,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,134,t,1.24,t,108,f,6,other,NO CONDITION
+840924016,35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,14,t,0,t,4,t,0.98,t,4,f,6,other,F
+840924023,47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,81,t,0.94,t,86,f,6,SVI,NO CONDITION
+840924026,74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,104,t,0.98,t,106,f,6,SVI,NO CONDITION
+840924028,63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,132,t,1.07,t,123,f,6,SVI,NO CONDITION
+840924035,30,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,41,t,3,t,109,t,1.79,t,61,f,6,STMW,MI
+840924036,25,F,t,f,f,f,t,f,f,f,f,f,f,f,f,f,t,0,t,2,t,143,t,1.66,t,86,f,6,STMW,NO CONDITION
+840924037,21,F,f,f,f,f,t,f,f,f,t,f,f,f,f,f,t,0,t,3,t,162,t,1.76,t,92,f,6,STMW,I
+840924038,20,F,t,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0,t,2,t,150,t,1.11,t,135,f,6,STMW,NO CONDITION
+840924039,34,F,t,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0,t,3,t,149,t,0.97,t,154,f,6,STMW,C|I
+840924044,72,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,98,t,0.96,t,102,f,6,other,NO CONDITION
+840924047,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,84,t,0.76,t,111,f,6,other,NO CONDITION
+840925002,73,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2,f,6,t,110,t,1.11,t,99,f,6,other,NO CONDITION
+840925003,72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,0,t,83,t,0.92,t,90,f,6,SVI,K
+840925004,70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,118,t,1.06,t,111,f,6,other,NO CONDITION
+840925006,52,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2,f,6,t,125,t,1.3,t,96,f,6,other,I
+840925007,27,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,103,t,0.74,t,139,f,6,SVHC,NO CONDITION
+840925016,38,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,22,t,2,t,40,t,1.17,t,34,f,6,other,O
+840925023,72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,52,t,0.79,t,66,f,6,other,K
+840925034,57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,2,t,102,t,0.99,t,103,f,6,SVHC,NO CONDITION
+840925036,55,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,79,t,0.87,t,91,f,6,SVI,NO CONDITION
+840925038,68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,118,t,1.07,t,110,f,6,SVI,NO CONDITION
+840925040,25,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,1,t,2,t,86,t,0.96,t,90,f,6,SVI,NO CONDITION
+840925042,25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,99,t,1.02,t,97,f,6,SVI,NO CONDITION
+840925046,66,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,1,t,69,t,0.67,t,103,f,6,other,NO CONDITION
+840925054,34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,2,t,139,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840925056,58,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,0,t,3,t,148,t,0.91,t,163,f,6,other,A
+840925057,34,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,103,t,0.96,t,107,f,6,other,NO CONDITION
+840925061,22,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,f,6,f,6,t,89,t,0.82,t,109,f,6,other,NO CONDITION
+840926002,56,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1,f,6,t,89,t,0.87,t,102,f,6,other,NO CONDITION
+840926013,34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,88,t,0.84,t,105,f,6,STMW,NO CONDITION
+840926016,26,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1,t,2,t,195,t,0.88,t,222,f,6,other,R
+840926041,56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,126,t,1.09,t,116,f,6,SVI,NO CONDITION
+840926043,67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,1,t,78,t,1.02,t,76,f,6,SVI,NO CONDITION
+840926044,67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,155,t,0.91,t,170,f,6,SVI,R
+840926045,31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,96,t,0.8,t,120,f,6,SVI,NO CONDITION
+840926046,31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,70,f,6.5596384079096035,f,6,f,6,SVI,NO CONDITION
+840926047,56,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,85,t,1.12,t,76,f,6,SVI,K
+840926060,62,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,55,t,0.86,t,64,f,6,SVI,NO CONDITION
+840926063,55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,30,other,NO CONDITION
+840927003,55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,104,t,0.7,t,149,f,6,other,NO CONDITION
+840927004,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,2,t,92,t,0.76,t,121,f,6,SVHC,NO CONDITION
+840927006,48,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,119,t,0.82,t,145,f,6,other,NO CONDITION
+840927013,59,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,3,t,120,t,1.14,t,105,f,6,other,NO CONDITION
+840927018,30,F,t,f,f,f,t,f,f,f,f,f,f,f,f,f,t,45,t,2,t,123,t,1.73,t,71,f,6,STMW,M
+840927020,58,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,3,t,184,t,1.0,t,184,f,6,other,N
+840927021,65,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,132,t,1.15,t,115,f,6,other,NO CONDITION
+840927023,71,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,142,t,1.05,t,135,f,6,other,NO CONDITION
+840927026,62,M,t,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,108,t,0.84,t,129,f,6,other,NO CONDITION
+840927032,58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,113,t,0.83,t,136,f,6,other,NO CONDITION
+840927033,51,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,75,t,0.89,t,84,f,6,other,NO CONDITION
+840927034,51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,68,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840927035,77,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,101,t,0.88,t,115,f,6,other,NO CONDITION
+840927036,49,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,124,t,1.09,t,114,f,6,other,NO CONDITION
+840927037,25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,101,t,1.11,t,93,f,6,other,NO CONDITION
+840927044,64,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,119,t,0.91,t,131,f,6,other,NO CONDITION
+840927052,79,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,f,6,t,92,t,0.95,t,97,f,6,other,NO CONDITION
+840927054,41,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,35,t,0.95,t,37,t,19,other,NO CONDITION
+840927057,61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,113,t,0.86,t,131,f,6,SVI,NO CONDITION
+840927058,79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,119,t,0.98,t,121,f,6,SVI,NO CONDITION
+840927065,34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,104,t,0.94,t,111,f,6,SVI,NO CONDITION
+840927066,22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,167,t,1.32,t,127,f,6,SVI,I
+840927067,69,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,105,t,0.98,t,107,f,6,SVI,NO CONDITION
+840927068,69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,102,t,0.9,t,113,f,6,SVI,K
+840927069,42,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,61,t,0.74,t,82,f,6,SVI,K
+840927071,71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,95,t,0.86,t,110,f,6,SVHC,NO CONDITION
+840927073,77,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,108,t,1.13,t,96,f,6,SVI,NO CONDITION
+840927074,73,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,4,t,0,t,98,t,0.55,t,178,f,6,SVI,KJ
+840927075,55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,142,t,1.03,t,138,f,6,SVI,NO CONDITION
+840927077,58,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0,t,2,t,155,t,1.08,t,144,f,6,other,NO CONDITION
+840927080,18,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,113,t,1.02,t,105,f,6,other,NO CONDITION
+840927081,57,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,20,other,NO CONDITION
+840927084,72,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,123,t,0.92,t,134,f,6,other,NO CONDITION
+840927093,38,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,82,t,0.7,t,117,f,6,other,NO CONDITION
+840927098,41,M,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0,f,6,t,100,t,0.75,t,133,f,6,other,NO CONDITION
+840927100,53,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,33,other,S
+840928004,20,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,119,t,1.08,t,110,f,6,SVHD,NO CONDITION
+840928008,20,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,110,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+840928013,76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,103,t,0.96,t,106,f,6,SVI,K
+840928028,69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,24,t,1,t,85,t,0.73,t,116,f,6,SVI,GK
+840928029,33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,97,t,1.04,t,93,f,6,SVI,NO CONDITION
+840928030,59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,52,t,0.7,t,74,f,6,SVI,NO CONDITION
+840928031,51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,79,t,0.9,t,88,f,6,SVI,NO CONDITION
+840928032,75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,70,t,0.94,t,96,f,6,SVI,NO CONDITION
+841002001,75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,95,t,1.01,t,94,f,6,other,NO CONDITION
+841002002,34,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,7,t,261,t,1.01,t,258,f,6,other,A
+841002005,57,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,6,t,1,t,91,t,0.94,t,97,f,6,other,G
+841002006,79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,114,t,0.78,t,146,f,6,SVHC,NO CONDITION
+841002007,79,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,124,t,0.62,t,200,f,6,other,R
+841002008,64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,118,t,0.74,t,159,f,6,other,R
+841002010,53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,128,t,0.87,t,147,f,6,SVI,NO CONDITION
+841002011,69,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,106,t,0.92,t,115,f,6,SVI,NO CONDITION
+841002012,73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,176,t,1.29,t,136,f,6,SVI,I
+841002018,27,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,2,t,145,t,1.16,t,125,f,6,other,NO CONDITION
+841002024,27,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1,t,2,t,104,t,1.12,t,93,f,6,other,NO CONDITION
+841002028,32,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,2,t,2,t,76,t,0.86,t,88,f,6,other,NO CONDITION
+841002030,35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,35,t,0,t,4,f,6.5596384079096035,f,6,f,6,other,F
+841002034,38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,125,t,0.92,t,136,f,6,other,NO CONDITION
+841002036,34,M,t,t,f,f,f,f,f,f,f,f,t,f,f,f,f,6,t,2,t,93,t,1.1,t,85,f,6,other,NO CONDITION
+841002037,45,F,f,f,f,f,f,f,f,f,t,f,f,f,f,t,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,30,other,NO CONDITION
+841002042,41,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1,t,2,t,84,t,0.95,t,88,f,6,other,NO CONDITION
+841002043,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,44,t,0.9,t,49,f,6,other,NO CONDITION
+841002048,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,75,t,0.66,t,114,f,6,SVI,NO CONDITION
+841002049,67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,95,t,0.95,t,100,f,6,SVI,NO CONDITION
+841002052,67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,85,t,0.57,t,149,f,6,SVI,NO CONDITION
+841002053,32,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,t,2,t,111,t,0.98,t,113,f,6,other,NO CONDITION
+841002054,21,M,t,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,107,t,0.82,t,130,f,6,other,NO CONDITION
+841003003,76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,1,t,105,t,0.96,t,109,f,6,other,NO CONDITION
+841003010,2,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,f,6,f,6.5596384079096035,f,6,f,6,STMW,NO CONDITION
+841003018,62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,65,t,0,t,22,t,1.03,t,21,f,6,other,F
+841003030,45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,96,t,0.99,t,97,f,6,other,NO CONDITION
+841003031,33,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1,t,1,t,83,t,0.77,t,108,f,6,other,NO CONDITION
+841003032,72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,81,t,0.79,t,103,f,6,SVI,NO CONDITION
+841003033,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,126,t,1.1,t,115,f,6,other,NO CONDITION
+841003035,45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,99,t,0.98,t,101,f,6,other,NO CONDITION
+841003036,45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,82,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841003037,54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,78,t,0.95,t,82,f,6,other,NO CONDITION
+841003038,54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,119,t,1.13,t,105,f,6,other,NO CONDITION
+841003047,26,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,116,t,0.99,t,117,f,6,other,NO CONDITION
+841003048,26,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6,t,2,t,260,f,6.5596384079096035,f,6,f,6,other,I
+841003049,26,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,113,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841003057,55,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,f,6,f,6,t,91,t,0.96,t,95,f,6,other,NO CONDITION
+841004002,24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,86,t,0.93,t,92,f,6,SVHC,NO CONDITION
+841004003,24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,77,t,0.99,t,78,f,6,other,NO CONDITION
+841004004,53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,79,t,0.96,t,82,f,6,SVHC,NO CONDITION
+841004005,37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,2,t,84,t,0.84,t,100,f,6,SVHC,NO CONDITION
+841004007,37,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,6,t,1,t,152,t,0.97,t,157,f,6,SVHC,R
+841004012,39,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,159,t,1.19,t,134,f,6,other,NO CONDITION
+841004013,59,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,f,6,t,2,t,79,t,0.63,t,125,f,6,other,NO CONDITION
+841004014,18,6.5596384079096035,f,f,f,f,f,f,f,t,t,f,f,f,f,f,f,6,t,2,t,92,t,1.18,t,78,f,6,other,NO CONDITION
+841004015,27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,30,t,3,t,80,t,1.71,t,41,f,6,other,NO CONDITION
+841004016,68,M,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0,t,2,t,86,t,1.05,t,82,f,6,other,NO CONDITION
+841004021,57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,120,t,1.07,t,112,f,6,other,NO CONDITION
+841004032,48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,115,t,0.78,t,147,f,6,other,NO CONDITION
+841004035,59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,96,t,1.02,t,94,f,6,other,NO CONDITION
+841004036,31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,54,t,1.06,t,51,t,29,other,NO CONDITION
+841004039,45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,24,other,NO CONDITION
+841004040,33,F,f,f,t,f,f,t,f,f,t,f,f,f,f,f,f,6,f,6,t,139,t,1.07,t,130,f,6,other,NO CONDITION
+841004047,38,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,2,t,101,t,0.96,t,105,f,6,other,NO CONDITION
+841004059,80,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,2,t,101,t,1.01,t,100,f,6,other,NO CONDITION
+841004060,58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,120,t,1.15,t,104,f,6,SVI,NO CONDITION
+841004061,28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,151,t,1.45,t,104,f,6,other,NO CONDITION
+841004062,62,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,132,t,0.95,t,139,f,6,other,NO CONDITION
+841004063,62,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,260,t,0.31,t,839,f,6,other,A
+841004064,62,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,113,t,0.34,t,332,f,6,other,A
+841004076,43,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,2,t,1,t,103,t,1.1,t,94,f,6,other,NO CONDITION
+841004077,43,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,100,f,6,t,93,t,0.87,t,107,f,6,other,M
+841004082,28,F,f,f,f,f,t,f,f,f,f,f,t,f,f,f,t,0,t,2,t,124,t,1.26,t,98,f,6,other,NO CONDITION
+841005003,28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,116,t,0.77,t,151,f,6,other,NO CONDITION
+841005004,43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,73,t,1.03,t,71,f,6,other,NO CONDITION
+841005009,57,M,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,4,t,1,t,89,t,1.05,t,85,f,6,SVI,NO CONDITION
+841005010,57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,104,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841005011,42,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,2,t,106,t,1.05,t,101,f,6,SVHC,NO CONDITION
+841005012,42,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,118,t,1.04,t,113,f,6,SVI,NO CONDITION
+841005014,53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,86,t,0.49,t,176,f,6,other,NO CONDITION
+841005046,80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,119,t,0.87,t,137,f,6,SVI,NO CONDITION
+841005047,80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,76,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841005049,53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,287,t,0.94,t,305,f,6,SVI,R
+841005055,24,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0,t,2,t,145,t,1.31,t,111,f,6,other,NO CONDITION
+841005056,69,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0,f,6,t,107,t,1.05,t,102,f,6,other,NO CONDITION
+841008001,55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,83,t,1.01,t,82,f,6,other,NO CONDITION
+841008002,47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,110,t,0.93,t,118,f,6,other,NO CONDITION
+841008004,64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,67,t,0.9,t,74,f,6,SVHC,NO CONDITION
+841008005,67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,99,t,0.99,t,100,f,6,SVI,NO CONDITION
+841008009,62,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,100,t,0,t,55,t,0.74,t,74,f,6,other,MK
+841008011,28,F,f,f,f,f,t,f,f,f,f,f,f,t,f,f,t,0,t,2,t,101,t,1.34,t,75,f,6,STMW,NO CONDITION
+841008018,64,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,103,t,1.01,t,102,f,6,other,NO CONDITION
+841008020,65,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,t,135,t,1.28,t,105,f,6,other,I
+841008034,72,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,4,t,230,t,0.77,t,299,f,6,other,A
+841008037,39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,120,t,1.08,t,111,f,6,other,NO CONDITION
+841008045,46,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,133,t,0.5,t,266,f,6,other,NO CONDITION
+841008047,21,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,97,t,0.85,t,114,f,6,other,NO CONDITION
+841009002,69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,93,t,1.03,t,90,f,6,SVI,NO CONDITION
+841009005,68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,86,t,0.93,t,92,f,6,SVI,NO CONDITION
+841009009,76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,1,t,176,t,1.33,t,132,f,6,SVHC,I
+841009011,36,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,1,t,91,t,0.75,t,121,f,6,SVHC,NO CONDITION
+841009012,69,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,1,t,125,t,0.97,t,129,f,6,SVI,NO CONDITION
+841009016,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,136,t,0.93,t,146,f,6,other,NO CONDITION
+841009021,17,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,121,t,1.17,t,103,f,6,STMW,NO CONDITION
+841009022,60,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,128,t,0.9,t,109,f,6,other,NO CONDITION
+841009029,71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,122,t,0.99,t,123,f,6,other,NO CONDITION
+841009031,27,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,56,t,2,t,36,t,1.11,t,32,f,6,other,O
+841009042,67,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,f,6,f,6,t,55,t,1.04,t,53,t,23,other,NO CONDITION
+841009045,60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,172,t,1.12,t,154,t,23,other,NO CONDITION
+841009046,56,F,t,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,f,6,t,296,t,0.8,t,370,t,9,other,N
+841009050,73,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,1,t,104,t,0.76,t,137,f,6,other,K
+841009062,73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,80,t,0.83,t,96,f,6,SVI,NO CONDITION
+841009063,28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,103,t,0.84,t,123,f,6,SVI,K
+841009064,88,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,1,t,96,t,0.86,t,112,f,6,SVI,NO CONDITION
+841009065,65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,123,t,0.92,t,134,f,6,SVI,NO CONDITION
+841009067,74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,0,t,95,t,0.78,t,122,f,6,SVI,K
+841009070,55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,55,t,0.55,t,100,f,6,other,J
+841009071,55,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,24,t,0,t,21,t,0.97,t,22,f,6,other,F
+841009072,55,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,11,t,2,t,96,t,0.88,t,109,f,6,other,G
+841009079,41,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,100,f,6,t,89,t,1.02,t,87,f,6,other,M
+841009080,64,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,t,115,t,0.97,t,119,f,6,other,NO CONDITION
+841009096,71,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,3,t,1,t,87,t,0.98,t,89,f,6,other,NO CONDITION
+841009099,64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,1,t,133,t,0.79,t,168,f,6,SVHC,NO CONDITION
+841009100,64,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1,f,6,t,100,t,1.09,t,92,f,6,other,NO CONDITION
+841010001,32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,3,t,154,t,1.75,t,88,f,6,STMW,I
+841010005,84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,106,t,1.05,t,101,f,6,other,NO CONDITION
+841010007,39,M,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,63,t,0.89,t,71,f,6,other,NO CONDITION
+841010015,24,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,f,6,f,6,t,119,t,1.17,t,102,f,6,other,NO CONDITION
+841010017,24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,98,t,0.81,t,121,f,6,SVI,K
+841010020,56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,81,t,0.92,t,88,f,6,SVI,NO CONDITION
+841010021,52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,90,t,1.07,t,84,f,6,SVI,K
+841010025,55,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,147,t,1.07,t,137,f,6,other,NO CONDITION
+841010028,48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,91,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841010029,48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,63,t,1.05,t,60,f,6,other,NO CONDITION
+841010030,76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,0,t,88,t,0.86,t,102,f,6,SVI,K
+841010031,60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,90,t,0.7,t,126,f,6,SVI,NO CONDITION
+841010032,81,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,107,t,1.1,t,97,f,6,SVI,NO CONDITION
+841010033,33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,1,t,93,t,0.97,t,96,f,6,SVHC,NO CONDITION
+841010034,77,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,0,t,108,t,0.91,t,119,f,6,other,K
+841011002,43,M,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0,t,1,t,114,t,0.61,t,187,f,6,other,R
+841011004,32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,183,t,0.93,t,197,f,6,SVI,AK
+841011005,43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,89,t,0.93,t,96,f,6,SVHC,NO CONDITION
+841011007,66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,11,t,1,t,68,t,0.97,t,70,f,6,other,G
+841011008,46,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,62,t,0.97,t,64,f,6,SVHC,NO CONDITION
+841011009,58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,106,t,1.01,t,105,f,6,SVHC,NO CONDITION
+841011010,61,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2,t,1,t,132,t,1.05,t,126,f,6,other,NO CONDITION
+841011015,23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,107,f,6.5596384079096035,f,6,f,6,STMW,NO CONDITION
+841011018,27,F,t,f,f,f,f,f,f,t,t,f,f,f,f,f,t,5,t,2,t,134,t,1.41,t,95,f,6,other,NO CONDITION
+841011019,60,F,t,f,f,f,f,f,t,t,f,f,f,f,f,f,t,0,t,1,t,138,t,0.92,t,150,f,6,other,NO CONDITION
+841011021,41,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,f,6,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841011026,58,F,t,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,157,t,0.92,t,171,f,6,other,N
+841011027,44,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,94,t,1.07,t,88,f,6,other,NO CONDITION
+841011028,61,F,t,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,198,t,0.9,t,220,f,6,other,N
+841011031,32,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,0,t,1,t,80,t,0.87,t,92,f,6,other,NO CONDITION
+841011042,23,M,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0,t,2,t,105,t,1.05,t,100,f,6,other,NO CONDITION
+841011062,23,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,83,t,0.77,t,108,f,6,SVI,K
+841011063,27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,87,t,1.28,t,68,f,6,SVI,NO CONDITION
+841011064,47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,120,t,0.95,t,126,f,6,SVI,NO CONDITION
+841011065,66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,101,t,1.13,t,89,f,6,SVI,NO CONDITION
+841011066,59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,1,t,84,t,0.93,t,90,f,6,SVHC,NO CONDITION
+841011067,63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,70,t,0.87,t,80,f,6,SVI,NO CONDITION
+841011070,66,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,3,t,0,t,88,t,0.83,t,106,f,6,SVI,K
+841011079,71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,101,t,1.02,t,99,f,6,other,K
+841011095,71,M,t,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,96,t,0.81,t,119,f,6,other,NO CONDITION
+841012001,39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,127,t,1.0,t,127,f,6,other,NO CONDITION
+841012003,28,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,166,t,0.98,t,169,f,6,other,L
+841012004,30,F,t,t,f,f,f,f,f,f,f,f,f,f,t,f,t,0,t,1,t,128,t,0.82,t,156,f,6,other,L
+841012013,62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,145,t,1.36,t,107,f,6,other,I
+841012014,38,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,113,t,0.99,t,114,f,6,other,NO CONDITION
+841012026,59,F,f,f,f,f,f,t,f,t,f,f,f,f,f,f,t,0,t,1,t,119,t,1.1,t,108,f,6,other,NO CONDITION
+841012041,66,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,8,t,1,t,82,t,0.98,t,84,f,6,SVI,GK
+841012042,43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,104,t,0.92,t,113,f,6,SVI,K
+841012046,57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,90,t,1.04,t,87,f,6,other,NO CONDITION
+841012061,57,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,174,t,0.75,t,232,f,6,other,AK
+841012064,61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,208,t,0.82,t,254,f,6,SVI,AK
+841012065,66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,115,t,0.84,t,137,f,6,SVI,K
+841012069,47,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,245,t,0.71,t,345,f,6,other,N
+841012070,63,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,76,t,0.78,t,97,f,6,other,NO CONDITION
+841015004,63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,101,t,0.88,t,115,f,6,other,NO CONDITION
+841015006,44,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,87,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841015007,62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,112,t,1.14,t,98,f,6,other,NO CONDITION
+841015010,62,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,1,t,107,t,0.88,t,122,f,6,other,NO CONDITION
+841015014,24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,400,t,0,t,4,t,1.0,t,4,f,6,other,F
+841015025,65,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,118,t,0.86,t,137,f,6,other,NO CONDITION
+841015026,35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,90,t,0.99,t,91,f,6,other,NO CONDITION
+841015027,35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,151,t,1.02,t,148,f,6,other,NO CONDITION
+841015029,35,F,t,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0,f,6,t,184,t,0.95,t,194,f,6,other,N
+841015035,17,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,f,6,t,119,t,1.23,t,97,f,6,other,NO CONDITION
+841015038,74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,128,t,1.29,t,99,f,6,other,NO CONDITION
+841015039,30,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,1,t,1,t,85,t,0.93,t,91,f,6,other,NO CONDITION
+841015048,30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,142,t,1.02,t,139,f,6,SVI,NO CONDITION
+841015049,81,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,109,t,0.9,t,121,f,6,SVI,K
+841015050,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,79,t,0.9,t,88,f,6,SVI,K
+841015051,62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,110,t,1.06,t,104,f,6,SVI,K
+841015053,71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,108,t,0.95,t,114,f,6,SVI,K
+841015056,22,M,f,f,t,f,f,f,f,f,t,f,f,f,f,f,t,1,t,1,t,85,t,1.02,t,82,f,6,other,NO CONDITION
+841016004,22,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,0,t,81,t,0.78,t,104,f,6,SVI,K
+841016005,70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,90,t,0.9,t,100,f,6,other,NO CONDITION
+841016010,33,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,217,t,1.22,t,178,f,6,other,N
+841016019,52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,11,t,1.12,t,10,f,6,other,NO CONDITION
+841016027,52,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,136,t,1.08,t,126,f,6,SVI,NO CONDITION
+841016029,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,117,t,1.12,t,104,f,6,SVI,NO CONDITION
+841016030,29,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,83,t,0.92,t,90,f,6,SVI,K
+841016031,97,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,84,t,0.97,t,87,f,6,SVI,NO CONDITION
+841016032,51,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,94,t,0.94,t,100,f,6,SVI,K
+841016033,62,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,207,t,1.14,t,182,f,6,SVI,N
+841016035,62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,80,t,0,t,42,t,0.8,t,53,f,6,SVI,F
+841016036,62,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,260,t,0,t,4,t,1.27,t,3,f,6,SVI,F
+841016037,56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,89,t,0.83,t,107,f,6,SVI,NO CONDITION
+841016038,75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,136,t,1.02,t,133,f,6,SVI,K
+841016039,75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,136,t,1.11,t,123,f,6,other,NO CONDITION
+841016040,75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,101,t,0.9,t,112,f,6,other,NO CONDITION
+841016041,75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1,t,2,t,136,t,1.18,t,115,f,6,SVHC,NO CONDITION
+841016042,54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,112,t,0.79,t,142,f,6,SVI,NO CONDITION
+841016046,63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,135,t,0.64,t,211,f,6,other,A
+841016050,6,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,f,6,t,139,t,0.99,t,140,f,6,other,NO CONDITION
+841016052,46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,138,t,0.98,t,141,f,6,other,NO CONDITION
+841016055,80,F,t,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0,t,0,t,137,t,0.81,t,169,f,6,other,L
+841017001,64,F,f,f,f,t,f,f,f,f,f,f,f,t,f,f,t,0,t,1,t,149,t,1.27,t,117,f,6,other,NO CONDITION
+841017002,71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,137,t,1.11,t,123,f,6,other,K
+841017011,71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,113,t,1.06,t,107,f,6,SVHC,NO CONDITION
+841017012,34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,98,t,0.98,t,100,f,6,SVHC,NO CONDITION
+841017013,30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,141,t,1.2,t,118,f,6,SVHC,NO CONDITION
+841017014,65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,103,t,0.98,t,105,f,6,other,NO CONDITION
+841017033,29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,21,other,NO CONDITION
+841017034,45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,107,t,1.12,t,96,f,6,other,NO CONDITION
+841017043,20,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,2,t,2,t,116,t,1.19,t,97,f,6,SVI,NO CONDITION
+841017044,20,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,228,t,1.05,t,217,f,6,SVI,N
+841017045,66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,0,t,70,t,0.98,t,71,f,6,SVI,K
+841017047,64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,109,t,0.95,t,115,f,6,SVI,K
+841017048,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,118,t,1.16,t,102,f,6,SVI,NO CONDITION
+841017049,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,93,t,0.78,t,119,f,6,other,NO CONDITION
+841017051,47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,46,t,0.81,t,57,f,6,SVI,K
+841017052,47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,81,t,0.94,t,86,f,6,SVI,NO CONDITION
+841017053,47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,148,t,0.99,t,149,f,6,SVI,NO CONDITION
+841017054,47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,86,t,0.97,t,89,f,6,SVI,NO CONDITION
+841017055,47,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8,t,1,t,58,t,0.36,t,161,f,6,other,NO CONDITION
+841017056,47,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6,t,2,t,176,t,0.32,t,550,f,6,other,R
+841017061,56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,1,t,117,t,1.0,t,117,f,6,other,NO CONDITION
+841018011,56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,132,t,1.09,t,121,f,6,other,NO CONDITION
+841018012,20,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,t,148,t,1.2,t,123,f,6,other,NO CONDITION
+841018013,78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,120,t,1.05,t,114,f,6,other,NO CONDITION
+841018016,78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,117,t,1.03,t,114,f,6,other,NO CONDITION
+841018018,14,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,f,6,t,155,t,0.93,t,166,t,25,other,A
+841018024,26,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,6,t,1,t,96,t,0.99,t,97,f,6,other,G
+841018025,68,M,t,f,f,f,f,f,t,f,f,f,f,f,f,f,t,1,t,2,t,120,t,1.1,t,109,f,6,other,NO CONDITION
+841018026,53,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,8,t,1,t,93,t,0.91,t,102,f,6,other,G
+841018034,12,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,93,t,1.18,t,79,f,6,other,NO CONDITION
+841018035,62,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,5,t,1,t,81,t,0.96,t,84,f,6,other,NO CONDITION
+841018036,74,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,92,t,1.0,t,92,f,6,other,NO CONDITION
+841018041,66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,118,t,1.13,t,104,f,6,other,NO CONDITION
+841018042,55,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1,t,1,t,74,t,0.99,t,75,f,6,other,NO CONDITION
+841018045,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,68,t,0.72,t,94,f,6,SVI,NO CONDITION
+841018046,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,142,t,0.98,t,145,f,6,SVI,K
+841018056,51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,76,t,0.83,t,92,f,6,SVI,NO CONDITION
+841018058,78,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,1,t,106,t,1.03,t,99,f,6,SVI,NO CONDITION
+841018063,85,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,138,t,1,t,27,t,1.19,t,23,f,6,SVI,F
+841018066,59,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,1,f,6,t,107,t,1.04,t,103,f,6,other,NO CONDITION
+841018067,23,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,42,f,6,t,99,t,1.08,t,92,f,6,other,M
+841018068,35,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,f,6,t,1,t,81,t,1.14,t,71,f,6,other,NO CONDITION
+841018070,14,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,28,other,NO CONDITION
+841018073,50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,86,t,0.88,t,98,f,6,other,NO CONDITION
+841018078,77,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,71,t,0.68,t,104,f,6,SVI,K
+841018079,59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,0,t,68,t,0.73,t,93,f,6,SVI,K
+841018084,50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,106,t,1.16,t,91,f,6,other,NO CONDITION
+841018091,75,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,1,t,94,t,0.75,t,125,f,6,other,NO CONDITION
+841018093,58,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,118,t,0.97,t,122,f,6,other,NO CONDITION
+841018094,60,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,1,t,95,t,0.73,t,130,f,6,other,NO CONDITION
+841018095,60,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,0,t,87,t,0.87,t,100,f,6,other,NO CONDITION
+841019002,59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,1,t,97,t,0.91,t,107,f,6,other,NO CONDITION
+841019004,42,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,59,t,0.71,t,83,f,6,other,NO CONDITION
+841019005,48,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,t,1,t,104,t,1.0,t,104,f,6,other,NO CONDITION
+841019009,65,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1,t,1,t,124,t,0.86,t,145,f,6,other,NO CONDITION
+841019012,77,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,9,t,1,t,134,t,1.09,t,123,f,6,other,G
+841019020,23,F,f,f,f,f,t,f,f,f,f,f,f,t,f,f,t,0,t,2,t,201,t,1.14,t,176,f,6,STMW,A
+841019024,17,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,95,t,1.02,t,93,f,6,other,NO CONDITION
+841019047,59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,1,f,6,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841019070,59,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,1,t,70,t,0.73,t,96,f,6,SVI,K
+841019071,73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,100,t,0.97,t,102,f,6,other,NO CONDITION
+841019072,58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,140,t,1.3,t,108,f,6,SVI,NO CONDITION
+841019081,59,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,f,6,t,140,t,1.04,t,134,f,6,other,NO CONDITION
+841019084,59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,53,other,S
+841019086,27,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1,t,2,t,149,t,1.29,t,115,f,6,other,NO CONDITION
+841019089,26,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,f,6,t,212,t,0.82,t,257,f,6,other,A
+841019096,73,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,115,t,1.08,t,106,f,6,other,NO CONDITION
+841022003,73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,79,t,0.76,t,104,f,6,other,NO CONDITION
+841022004,73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,102,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841022005,67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,148,t,0.91,t,163,f,6,other,NO CONDITION
+841022006,30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2,t,115,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841022007,68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,56,t,0,t,23,t,1.01,t,22,f,6,other,F
+841022009,27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,2,t,1,t,102,t,1.09,t,94,f,6,SVHC,NO CONDITION
+841022010,72,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,3,t,333,t,0.74,t,450,f,6,other,A
+841022012,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,1,t,101,t,0.84,t,120,f,6,SVHC,NO CONDITION
+841022013,58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8,t,1,t,83,t,0.85,t,98,f,6,other,G
+841022014,29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2,t,91,t,1.42,t,64,f,6,other,I
+841022017,47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,1,t,117,t,0.88,t,134,f,6,other,NO CONDITION
+841022030,43,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,f,6,t,1,t,98,t,1.05,t,93,f,6,other,NO CONDITION
+841022032,54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,90,t,0.93,t,97,f,6,other,NO CONDITION
+841022039,13,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,93,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841022041,13,6.5596384079096035,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,97,t,1.02,t,95,f,6,SVI,NO CONDITION
+841022042,52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,115,t,0.91,t,126,f,6,SVI,K
+841022051,33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,f,6,t,104,t,0.93,t,112,f,6,other,NO CONDITION
+841023002,70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,68,t,0.75,t,90,f,6,SVI,K
+841023019,34,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,t,0,t,2,t,202,t,1.51,t,134,f,6,STMW,I
+841023022,47,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,120,t,1.0,t,120,f,6,other,NO CONDITION
+841023023,28,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,139,t,0.96,t,145,f,6,other,NO CONDITION
+841023028,35,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,113,t,0.91,t,124,f,6,other,NO CONDITION
+841023033,55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,f,6,t,150,t,1.29,t,117,f,6,other,I
+841023037,58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,93,t,0.99,t,94,f,6,other,NO CONDITION
+841023039,85,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,44,t,2,t,38,t,1.03,t,37,f,6,SVI,F
+841023040,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,1,t,85,t,0.84,t,101,f,6,SVI,NO CONDITION
+841023041,72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,119,t,0.96,t,124,f,6,SVHC,NO CONDITION
+841023042,72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,113,t,0.87,t,130,f,6,SVHC,NO CONDITION
+841023043,72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,72,t,1.05,t,69,f,6,other,NO CONDITION
+841023044,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,102,t,0.82,t,124,f,6,SVI,NO CONDITION
+841023046,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,136,t,0.96,t,142,f,6,SVI,NO CONDITION
+841023048,83,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,77,t,0.78,t,98,f,6,SVI,K
+841023049,31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,94,t,0.8,t,118,f,6,SVI,K
+841023050,57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,141,t,0.93,t,153,f,6,SVI,K
+841023051,25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,106,t,1.03,t,103,f,6,SVI,NO CONDITION
+841023057,25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,97,t,0.98,t,99,f,6,other,NO CONDITION
+841024002,53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,104,t,1.04,t,100,f,6,other,NO CONDITION
+841024015,19,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,f,6,t,106,t,1.0,t,106,f,6,other,NO CONDITION
+841024017,71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,81,t,1.14,t,71,f,6,other,NO CONDITION
+841024018,72,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,97,t,0.99,t,98,f,6,SVHD,NO CONDITION
+841024039,31,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,106,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841024040,69,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,71,t,0.6,t,118,f,6,SVI,NO CONDITION
+841024041,75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0,t,47,t,0.6,t,77,f,6,SVI,NO CONDITION
+841024044,30,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,112,t,0.87,t,130,f,6,SVI,NO CONDITION
+841024045,74,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,68,t,0.77,t,89,f,6,SVI,K
+841024048,74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,2,t,168,t,1.22,t,138,f,6,SVHC,I
+841024049,40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,105,t,0.87,t,119,f,6,SVI,NO CONDITION
+841024052,40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,128,t,0.83,t,154,f,6,SVI,K
+841024054,66,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2,f,6,f,6,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841024055,65,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,10,t,1,f,6,f,6.5596384079096035,f,6,f,6,other,F
+841024066,66,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,186,t,0.98,t,189,f,6,other,N
+841024068,50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,128,t,0.95,t,134,f,6,STMW,NO CONDITION
+841024069,66,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,119,t,0.69,t,172,f,6,other,L
+841025001,66,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,1,t,1,t,142,t,1.08,t,131,f,6,other,NO CONDITION
+841025003,17,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2,t,1,t,113,t,1.03,t,109,f,6,other,NO CONDITION
+841025012,77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,114,t,0.96,t,119,f,6,SVI,NO CONDITION
+841025013,62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,54,t,0,t,41,t,0.78,t,52,f,6,other,F
+841025015,62,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,122,t,0.99,t,123,f,6,other,NO CONDITION
+841025024,62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,101,t,0.88,t,115,f,6,other,NO CONDITION
+841025025,70,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,175,t,1.18,t,148,f,6,other,NO CONDITION
+841025026,58,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,153,t,0.82,t,188,f,6,other,N
+841025027,55,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,155,t,1.03,t,150,f,6,other,NO CONDITION
+841025030,66,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,3,t,1,t,76,t,0.83,t,92,f,6,other,NO CONDITION
+841025032,20,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,1,t,2,t,137,t,1.3,t,103,f,6,other,NO CONDITION
+841025043,46,6.5596384079096035,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,175,t,0.91,t,192,f,6,other,N
+841025045,71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,105,t,0.96,t,109,f,6,SVI,NO CONDITION
+841025046,73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,96,t,0.89,t,108,f,6,SVI,K
+841025048,66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,121,t,0.84,t,144,f,6,other,NO CONDITION
+841025049,61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,103,t,0.98,t,105,f,6,SVI,NO CONDITION
+841025051,55,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,146,t,1.04,t,140,f,6,other,NO CONDITION
+841025052,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1,t,0,t,103,t,0.91,t,113,f,6,SVHC,K
+841025053,55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,0,t,108,t,0.96,t,112,f,6,SVHC,K
+841025054,57,M,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0,t,1,t,65,t,0.83,t,78,f,6,other,P
+841025061,35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,158,t,0.88,t,179,f,6,other,AK
+841025072,35,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,132,t,0.98,t,134,f,6,other,NO CONDITION
+841025075,76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,81,t,1.05,t,80,f,6,other,NO CONDITION
+841025076,68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,36,other,S
+841025077,56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,t,77,t,1.08,t,71,f,6,other,NO CONDITION
+841025079,42,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,t,6,f,6,t,89,t,0.95,t,94,f,6,other,G
+841025080,51,F,t,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0,t,1,t,88,t,1.05,t,85,f,6,other,NO CONDITION
+841026012,46,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0,t,1,t,107,t,1.08,t,107,f,6,other,NO CONDITION
+841026013,60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,129,t,1.08,t,129,f,6,other,NO CONDITION
+841026014,65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,t,1,t,98,t,1.16,t,98,f,6,SVI,NO CONDITION
+841026015,65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,122,t,1.32,t,122,f,6,SVHC,NO CONDITION
+841026035,69,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,23,other,NO CONDITION
+841026047,41,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,3,t,1,t,79,t,1.11,t,79,f,6,other,NO CONDITION
+841026049,45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,1,t,77,t,0.89,t,77,f,6,other,NO CONDITION
+841026051,67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,139,t,1.12,t,139,f,6,other,NO CONDITION
+841026061,68,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,f,6,t,98,t,1.0,t,98,f,6,other,NO CONDITION
+841026062,41,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,151,t,1.1,t,151,f,6,other,NO CONDITION
+841026070,39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,27,other,NO CONDITION
+841026073,39,6.5596384079096035,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,140,t,1.31,t,140,f,6,other,NO CONDITION
+841029006,39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,92,t,0.88,t,105,f,6,SVI,K
+841029008,58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1,t,114,t,0.92,t,124,f,6,SVI,K
+841029009,78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,103,t,0.88,t,117,f,6,SVI,NO CONDITION
+841029010,78,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,1,t,93,t,0.78,t,120,f,6,SVHC,NO CONDITION
+841029011,64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,77,t,0.88,t,88,f,6,SVI,NO CONDITION
+841029013,49,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,1,t,58,t,0.82,t,71,f,6,SVI,NO CONDITION
+841029016,62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,211,t,0.97,t,218,f,6,other,AK
+841029017,19,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0,t,3,t,181,t,1.33,t,136,f,6,other,I
+841029020,55,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,196,t,0.94,t,208,f,6,other,N
+841029022,55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,25,other,NO CONDITION
+841029023,32,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,150,t,0,t,16,t,0.95,t,17,f,6,other,F
+841029032,50,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,f,6,t,153,t,1.01,t,150,f,6,other,NO CONDITION
+841029040,59,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0,t,2,t,156,t,0.94,t,166,f,6,other,L
+841029042,67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,111,t,0.94,t,118,f,6,SVI,NO CONDITION
+841029049,75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,107,t,1.01,t,106,f,6,STMW,NO CONDITION
+841029050,30,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,3,t,202,t,1.74,t,116,f,6,STMW,I
+841029051,38,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,109,t,0.98,t,111,f,6,STMW,NO CONDITION
+841029053,17,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,t,0,t,3,t,143,t,1.43,t,100,f,6,STMW,I
+841029054,62,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,109,t,0.85,t,128,f,6,other,NO CONDITION
+841030005,89,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6,t,1,f,6,f,6.5596384079096035,f,6,f,6,other,NO CONDITION
+841030028,45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,96,t,0.94,t,102,f,6,other,NO CONDITION
+841030042,84,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,83,t,0.95,t,88,f,6,other,NO CONDITION
+841030043,55,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,1,t,119,t,1.08,t,110,f,6,other,NO CONDITION
+841030044,68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,116,t,0.81,t,142,f,6,SVI,K
+841030045,68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0,t,1,t,116,t,0.83,t,139,f,6,SVHC,NO CONDITION
+841030046,68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,104,t,0.83,t,126,f,6,SVHC,NO CONDITION
+841030048,73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,87,t,0.83,t,104,f,6,SVI,NO CONDITION
+841030049,62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,1,t,198,t,0.94,t,211,f,6,SVI,AK
+841030050,69,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,86,t,0.98,t,88,f,6,SVI,K
+841030051,41,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,92,t,0.94,t,98,f,6,other,NO CONDITION
+841030052,48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1,t,128,t,1.02,t,125,f,6,SVI,K
+841031002,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,2,t,148,t,1.44,t,103,f,6,STMW,NO CONDITION
+841031010,41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,53,t,0,t,9,t,1.46,t,6,f,6,other,F
+841031030,20,F,f,f,f,f,t,f,f,f,t,f,f,f,f,f,f,6,f,6,f,6,f,6.5596384079096035,f,6,t,30,other,NO CONDITION
+841031031,20,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0,t,0,t,201,t,0.84,t,240,f,6,SVI,AK
+841031032,73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1,t,85,t,0.9,t,94,f,6,SVI,NO CONDITION
