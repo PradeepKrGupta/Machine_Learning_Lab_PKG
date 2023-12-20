@@ -1,0 +1,396 @@
+Lab Worksheet - 6 
+LED Interface 
+Exercise Problems 
+1. Write a ARM embedded C program to turn on an LED connected to P0.10 using Keil 
+Simulator
+#include <LPC21xx.H> 
+int main()
+{
+IODIR0 |= (1<<10); //Setting P0.10 as output port
+while(1) {
+IOSET0 |= (1<<10) ; //Sending HIGH to P0.10
+}
+return(0);
+}
+
+
+----------------------------------------------------------------------------------------
+
+
+2. Write a ARM embedded C program to blink an LED connected to P1.17 using Keil 
+Simulator
+
+#include <LPC21xx.H> 
+delay() //Delay function
+{
+int count;
+for(count = 0;count<=10000;count++);
+}
+int main()
+{
+IODIR1 |= (1<<17); //setting P1.17 as output 
+port
+while(1){
+IOSET1 |= (1<<17) ; //Sending HIGH to P1.17
+delay();
+IOCLR1 |= (1<<17) ; // Sending LOW to p1.17
+delay();
+}
+return(0);
+}
+
+
+----------------------------------------------------------------------------------------
+
+
+Assignment Problem 
+1. Write an ARM embedded C program to form a chasing LED pattern with eight LEDs using 
+Keil simulator.
+#include <LPC21XX.H>
+
+void delay() {
+int i;
+for (i=0;i<50000;i++);
+}
+
+int main(){
+int j,k;
+for (j=0;j<8;j++){
+IODIR0 |= (1<<8+j);
+}
+
+while(1){
+for (k=0;k<8;k++){
+IOSET0 |= (1<<8+k);
+delay();
+IOCLR0 |= (1<<8+k);
+delay();
+}
+}
+}
+
+----------------------------------------------------------------------------------------
+
+
+Lab Worksheet - 7 
+Digital Input and Output 
+Exercise Problems 
+1. Write a ARM embedded C program to turn on/off an LED connected to P0.10 using a on/off 
+switch connected in P0.1 in Keil Simulator
+
+#include <LPC21xx.H> 
+int main()
+{
+IODIR0 |= (1<<10); //Settin P0.10 as output port
+IODIR0 |= (0<<1); // Setting P0.1 as input port
+while(1) {
+if (IOPIN0 & (1<<1))
+IOSET0 |= (1<<10) ; //Sending HIGH to P0.10
+else
+IOCLR0 |= (1<<10) ; //Sending LOW to P0.10
+}
+return(0);
+}
+
+
+----------------------------------------------------------------------------------------
+
+
+Assignment Problem 
+1. Write an ARM embedded C program to control the chasing LED pattern of eight LEDs using 
+on/off switch Keil simulator. If the switch is on then the chasing in forward direction else 
+backward direction.
+#include <LPC21XX.H> 
+void delay() //Delay function
+	{
+	int count;
+	for(count = 0;count<=30000;count++);
+	}
+	
+
+ int main(){
+ 		int k,i,j;
+
+  IODIR0 |= (0<<1);
+
+
+	for (k=3;k<=18;k++){
+	 IODIR0 |= (1<<k);
+	}
+
+   while(1){
+  if (IOPIN0 & (1<<1)){ 
+  for (i=10;i<=17;i++){
+   IOSET0 |= (1<<i); 
+   	delay(); 
+    IOCLR0 |= (1<<i);
+	delay(); 
+  }
+  }
+  else {
+   for (j=10;j>=3;j--){
+   IOSET0 |= (1<<j);
+   	delay();  
+    IOCLR0 |= (1<<j);
+	delay(); 
+  }
+  }	}
+  return(0);
+ }
+
+
+----------------------------------------------------------------------------------------
+
+
+Lab Worksheet - 7 
+Analog to Digital Convertor 
+Exercise Problems 
+1. Write a ARM embedded C program configure the AD0.1 to read analog voltage and record 
+the latest converted digital value in a variable “dig" .
+#include "lpc_2148.h"
+#include "adc.h"
+ 
+void init_adc0(void)
+{
+ 
+// PINSEL1 = (PINSEL1 & ~(1 << 24)) | (1 << 24); //select channel1 of AD0
+ PINSEL1 = 0x01000000;
+}
+int adc_read(void)
+{
+ int i;
+ AD0CR = 0x00200400 | (1<<1) ; // select channel
+ AD0CR |= 0x01000000; // Start A/D Conversion
+ while ((AD0STAT & 0x00010002) == 0); // Wait for end of A/D Conversion
+ i = AD0DR1; // Read A/D Data Register
+ return i;
+ }
+ main() {
+ int dig = 0;
+ init_adc0();
+ IODIR0 = 0x00FF0000; /* P1.16..23 defined as 
+Outputs */
+ while(1)
+ {
+ dig = adc_read();
+ dig &= 0x0000ffff ;
+ 
+ }
+ }
+
+
+----------------------------------------------------------------------------------------
+
+
+
+2. Write a ARM embedded C program to control the multi LED array using analog controller. 
+Assume the analog controller is connected to AD0.6 and an 8 array LED is connected to 
+P0.16 to P0.23. The control is based on analog controller voltage level 
+ voltage is 0V to 1V = P0.16 and P0.17 LED’s ON 
+ voltage is 1.1V to 2V = P0.16 and P0.19 LED’s ON 
+ voltage is 2.1V to 2.5V = P0.16 and P0.21 LED’s ON 
+ voltage is 2.6V to 3V = P0.16 and P0.23 LED’s ON
+#include "lpc_2148.h"
+#include "adc.h" 
+void init_adc0(void)
+{
+ 
+ PINSEL0 |= 0x3 << 8; //select channel6 of AD0
+}
+int adc_read(void)
+{
+ int i;
+ AD0CR = 0x00200400 | (1<<6) ; // select channel
+ AD0CR |= 0x01000000; // Start A/D Conversion
+ while ((AD0STAT & 0x00010002) == 0); // Wait for end of A/D Conversion
+ i = AD0DR6; // Read A/D Data Register
+ return i;
+ }
+main() {
+ int dig = 0;
+ init_adc0();
+ IODIR0 = 0x00FF0000; /* P0.16..23 defined as Outputs */
+ while(1)
+ {
+ dig = adc_read();
+ dig &= 0x0000ffff ;
+ if(dig >= 0x00000000 && dig<=0x00004d80)
+ {
+ IOCLR0 |= 0x00ff0000;
+IOSET0 |= 0x00030000;
+}
+ else if(dig >= 0x00004d81 && dig<=0x00009b00)
+ {
+ IOCLR0 |= 0x00ff0000;
+ IOSET0 |= 0x000f0000;
+}
+ else if(dig >= 0x00009b01 && dig<=0x0000c1c0)
+ {
+ IOCLR0 |= 0x00ff0000;
+ IOSET0 |= 0x003f0000;
+}
+ else if(dig >= 0x0000c1c1 && dig<=0x0000e880)
+ {
+ IOCLR0 |= 0x00ff0000;
+ IOSET0 |= 0x00ff0000;
+}
+else
+IOCLR0 |= 0x00ff0000;
+ }
+ }
+
+
+----------------------------------------------------------------------------------------
+
+
+
+1.Assignment Problem
+Write an ARM embedded C program to control the LED on/off delay time using Analog 
+controller. Assume the LED is connected in P1.16 and analog controller is connected to 
+AD1.1
+
+
+#include "lpc_2148.h"
+#include "adc.h"
+
+void init_adc1(void)
+{
+    PINSEL1 |= 0x00040000; // Select channel 1 of AD1
+}
+
+int adc_read(void)
+{
+    int i;
+    AD1CR = 0x00200400 | (1 << 1); // Select channel
+    AD1CR |= 0x01000000;          // Start A/D Conversion
+    while ((AD1STAT & 0x00010002) == 0)
+        ;           // Wait for end of A/D Conversion
+    i = AD1DR1; // Read A/D Data Register
+    return i;
+}
+
+void delay(int milliseconds)
+{
+    int i, j;
+    for (i = 0; i < milliseconds; i++)
+        for (j = 0; j < 10000; j++)
+            ;
+}
+
+int main()
+{
+    int analogValue;
+    init_adc1();
+    IODIR1 |= (1 << 16); // P1.16 defined as Output
+
+    while (1)
+    {
+        analogValue = adc_read();
+        analogValue &= 0x0000FFFF;
+
+        // Map analog value to LED on/off delay time
+        int delayTime = analogValue * 10; // Assuming a linear mapping, adjust as needed
+
+        IOSET1 |= (1 << 16); // Turn on LED
+        delay(delayTime);    // Delay for on time
+
+        IOCLR1 |= (1 << 16); // Turn off LED
+        delay(delayTime);    // Delay for off time
+    }
+    return 0;
+}
+
+
+----------------------------------------------------------------------------------------
+
+
+Lab Worksheet - 9 
+Timer Counter 
+Exercise Problems 
+1. Write a ARM embedded C program configure Timer 0 create a delay of 1secs between an 
+LED on and off. Assume LED's are connected in all the PINS of GPIO0 and clock frequency 
+is 3MHz. 
+Hint1: Use the formula in Lecture Section-9 Slide 36 to calculate the Match register value. 
+Hint2: Use Logic analyzer to visualize the time delay
+#include <LPC214X.h>
+void delay(){
+T0MR0 = 3000000; //Load Calculated Count for desirted delay
+T0MCR = 0x00000004; //Stop on MR0
+T0TCR = 1; // Enable Timer 0
+while(T0TC != T0MR0); //wait untill TC reaches the desired 
+delay
+T0TC=0; // Reset Timer
+}
+main(){
+IODIR0 = 0xFFFFFFFF; //Configure POrt 0 as output port
+while(1){
+IOSET0 = 0xFFFFFFFF; // Make all poins of port 0 High
+delay();
+IOCLR0 = 0xFFFFFFFF; // Make all poins of port 0 Low
+delay();
+}
+}
+
+
+----------------------------------------------------------------------------------------
+
+
+2. Write a ARM embedded C program count the external events occurred using Counter 
+module. 
+
+#include <LPC21xx.H> /* LPC21xx 
+definitions */
+#define T0CTCR (*((volatile unsigned long *) 
+0xE0004070))
+#define T1CTCR (*((volatile unsigned long *) 
+0xE0008070))
+int count;
+int main(void)
+{
+PINSEL0 = 0x00200020; //Setting for Capture in port P0.2 
+and P0.10
+T0TCR = 0x00000001; //Enable Timercounter register for 
+counting
+T1TCR = 0x00000001; //Enable Timercounter register for 
+counting
+T0CTCR = 0x00000001; // enabling counter for counting on 
+rising edge od signal in CAP0 Timer0 pin
+T1CTCR = 0x00000001; // enabling counter for counting on 
+rising edge od signal in CAP0 Timer1 pin
+while(1)
+count = T0TC;
+}
+
+
+----------------------------------------------------------------------------------------
+
+
+
+Assignment Problem 
+1. Alter the program in Ex.1 to create a blinking LED pattern with ON time as 5 secs and off 
+time as 2 secs. 
+
+#include <LPC214X.h>
+
+void delay(unsigned int milliseconds) {
+    T0MR0 = 3000000 * milliseconds / 1000; // Load calculated Count for desired delay
+    T0MCR = 0x00000004; // Stop on MR0
+    T0TCR = 1; // Enable Timer 0
+    while (T0TC != T0MR0); // Wait until TC reaches the desired delay
+    T0TC = 0; // Reset Timer
+}
+
+int main() {
+    IODIR0 = 0xFFFFFFFF; // Configure Port 0 as output port
+
+    while (1) {
+        IOSET0 = 0xFFFFFFFF; // Make all pins of port 0 High
+        delay(5000); // 5 seconds ON time
+
+        IOCLR0 = 0xFFFFFFFF; // Make all pins of port 0 Low
+        delay(2000); // 2 seconds OFF time
+    }
+}
+
+
+----------------------------------------------------------------------------------------
