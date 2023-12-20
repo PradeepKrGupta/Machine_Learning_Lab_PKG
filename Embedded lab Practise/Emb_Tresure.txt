@@ -142,7 +142,7 @@ void delay() //Delay function
 ----------------------------------------------------------------------------------------
 
 
-Lab Worksheet - 7 
+Lab Worksheet - 8 
 Analog to Digital Convertor 
 Exercise Problems 
 1. Write a ARM embedded C program configure the AD0.1 to read analog voltage and record 
